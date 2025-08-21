@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+.theme {
+  --font-roboto: "Roboto", sans-serif; 
+}
+
+
+.clip-wave{
+  clip-path: path('M0,0 H100% V85% C25% 95%, 75% 75%, 100% 85% V0 Z');
+}
