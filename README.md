@@ -26,14 +26,14 @@ Includes **form validation**, **responsive design**, and **modern UI** using Tai
 ## 📸 Screenshots
 
 - **Login Page**  
-  ![Login Screenshot](/screenshots/login.png)
+  ![Login Screenshot](./public/screenshots/login.png)
 
 - **Sign Up Page**  
-  ![Signup Screenshot](/screenshots/signup.png)
+  ![Signup Screenshot](./public/screenshots/signup.png)
 
-*(Create a folder named `screenshots` in your project and put the images there)*
 
 ---
+
 
 ## ⚡ Getting Started
 
