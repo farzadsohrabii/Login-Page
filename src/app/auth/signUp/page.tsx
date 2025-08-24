@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import { Poppins } from 'next/font/google'
-import {SignUpForm} from "../../../auth/components/signUpForm"
+import {SignUpForm} from "../../../auth-components/components/signUpForm"
 
 const poppins = Poppins({
     subsets: ['latin'],

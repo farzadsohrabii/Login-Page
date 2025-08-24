@@ -1,6 +1,6 @@
 
 import { Poppins } from 'next/font/google'
-import { SignInForm } from '../../../auth/components/signInForm'
+import { SignInForm } from '../../../auth-components/components/signInForm'
 import Link from 'next/link'
 
 const poppins = Poppins({
